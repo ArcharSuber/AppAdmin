@@ -1,0 +1,36 @@
+<table border="1" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="66px" class="tdColor tdC">序号</td>
+        <td width="250px" class="tdColor">头像</td>
+        <td width="188px" class="tdColor">姓名</td>
+        <td width="235px" class="tdColor">手机号码</td>
+        <td width="220px" class="tdColor">所在城市</td>
+        <td width="290px" class="tdColor">会员余额</td>
+        <td width="282px" class="tdColor">注册时间</td>
+        <td width="130px" class="tdColor">操作</td>
+    </tr>
+    <foreach name="data" item="v">
+        <tr>
+            <td>{$v.id}</td>
+            <td><div class="onsImg onsImgv">
+                <img src="__ROOT__/{$v.v_thumb}" alt="无法显示图片">
+            </div></td>
+            <td>{$v.v_name}</td>
+            <td>{$v.v_tel}</td>
+            <td>{$v.v_city}</td>
+            <td><span id="{$v.id}">{$v.v_money}</span>
+                <input class="vipinput" type="text" id="v_{$v.id}" /><a
+                        class="vsAdd" href="javascript:;" onclick="vip_add({$v.id})">增加</a></td>
+            <td>{$v.v_date}</td>
+            <td><a href="{:U('Vip/update')}?id={$v.id}&page={$page}"><img class="operation"
+                                                   src="__PUBLIC__/Admin/img/update.png"></a> <img class="operation delban"
+                                                                                                   src="__PUBLIC__/Admin/img/delete.png" onclick="del({$v.id})"></td>
+        </tr>
+    </foreach>
+    <tr>
+        <td colspan="8">
+            <input type="hidden" value="{$page}" id="page">
+            {$show}
+        </td>
+    </tr>
+</table>

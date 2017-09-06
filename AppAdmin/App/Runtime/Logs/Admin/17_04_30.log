@@ -1,0 +1,458 @@
+[ 2017-04-30T18:27:24+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003713s ]
+
+[ 2017-04-30T18:27:25+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001274s ]
+
+[ 2017-04-30T18:27:28+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.3870365466601793
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2017-04-30T18:27:29+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.8004321662843881
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2017-04-30T18:27:30+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.0868529855932475
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+
+[ 2017-04-30T18:27:30+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.29966919056239905
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000995s ]
+
+[ 2017-04-30T18:27:31+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.19773473209831882
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2017-04-30T18:27:32+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.2717946116214832
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001515s ]
+
+[ 2017-04-30T18:27:34+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.5063268510053959
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000929s ]
+
+[ 2017-04-30T18:27:34+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.13166796469948228
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2017-04-30T18:27:35+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html?a=0.12681468951401298
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000869s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2017-04-30T18:27:55+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/login_do.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [2048] Declaration of Admin\Model\LoginModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\LoginModel.class.php 第 4 行.
+NOTIC: [2048] Declaration of Admin\Model\LoginModel::select() should be compatible with Think\Model::select($options = Array) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\LoginModel.class.php 第 4 行.
+SQL: SELECT * FROM `login` WHERE ( username='你好' ) LIMIT 1   [ RunTime:0.0291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001945s ]
+
+[ 2017-04-30T18:27:59+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-04-30T18:27:59+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2017-04-30T18:27:59+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-04-30T18:27:59+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' E:\php\apache\htdocs\month_3\AppAdmin\App\Runtime\Cache\Admin\6a50c6d503dcfec33a87262cae7a0f6e.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-04-30T18:28:02+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Adv/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+NOTIC: [2048] Declaration of Admin\Model\AdvModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\AdvModel.class.php 第 4 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `adv` LIMIT 1   [ RunTime:0.0205s ]
+SQL: SELECT * FROM `adv` ORDER BY id LIMIT 0,2   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002456s ]
+
+[ 2017-04-30T18:28:10+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/System/changePwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2017-04-30T18:28:35+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Vip/vip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\VipController::page_do(), called in E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Controller\VipController.class.php on line 6 and defined E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Controller\VipController.class.php 第 33 行.
+NOTIC: [2048] Declaration of Admin\Model\VipModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\VipModel.class.php 第 4 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `vip` WHERE ( 1 ) LIMIT 1   [ RunTime:0.0339s ]
+NOTIC: [8] Undefined variable: key E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Controller\VipController.class.php 第 38 行.
+SQL: SELECT * FROM `vip` INNER JOIN vip_select on vip.v_id=vip_select.v_id  WHERE ( 1 ) ORDER BY id LIMIT 0,2   [ RunTime:0.0239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-04-30T18:28:35+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Vip/vip.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+NOTIC: [2] Missing argument 1 for Admin\Controller\VipController::page_do(), called in E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Controller\VipController.class.php on line 6 and defined E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Controller\VipController.class.php 第 33 行.
+NOTIC: [2048] Declaration of Admin\Model\VipModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\VipModel.class.php 第 4 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `vip` WHERE ( 1 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: key E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Controller\VipController.class.php 第 38 行.
+SQL: SELECT * FROM `vip` INNER JOIN vip_select on vip.v_id=vip_select.v_id  WHERE ( 1 ) ORDER BY id LIMIT 0,2   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000687s ]
+
+[ 2017-04-30T18:28:42+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Vip/vip_add.html?id=1&money=67
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [2048] Declaration of Admin\Model\VipModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\VipModel.class.php 第 4 行.
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `vip` SET `v_money`='185' WHERE ( id=1 ) [ RunTime:0.0476s ]
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-04-30T18:28:43+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Vip/vip_add.html?id=1&money=67
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [2048] Declaration of Admin\Model\VipModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\VipModel.class.php 第 4 行.
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `vip` SET `v_money`='252' WHERE ( id=1 ) [ RunTime:0.0398s ]
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000908s ]
+
+[ 2017-04-30T18:28:44+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Vip/vip_add.html?id=1&money=67
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+NOTIC: [2048] Declaration of Admin\Model\VipModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\VipModel.class.php 第 4 行.
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `vip` SET `v_money`='319' WHERE ( id=1 ) [ RunTime:0.0689s ]
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003736s ]
+
+[ 2017-04-30T18:28:47+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Vip/vip_add.html?id=1&money=-45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [2048] Declaration of Admin\Model\VipModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) E:\php\apache\htdocs\month_3\AppAdmin\App\Admin\Model\VipModel.class.php 第 4 行.
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `vip` SET `v_money`='274' WHERE ( id=1 ) [ RunTime:0.0545s ]
+SQL: SELECT `v_money` FROM `vip` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001398s ]
+
+[ 2017-04-30T18:29:18+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/System/changePwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-04-30T18:29:27+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/out.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-04-30T18:29:29+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006662s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001716s ]
+
+[ 2017-04-30T18:29:29+08:00 ] 127.0.0.1 /month_3/AppAdmin/index.php/Admin/Login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+

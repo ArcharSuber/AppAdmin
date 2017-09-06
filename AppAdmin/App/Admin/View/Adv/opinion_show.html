@@ -1,0 +1,21 @@
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="66px" class="tdColor tdC">序号</td>
+        <td width="440px" class="tdColor">反馈时间</td>
+        <td width="396px" class="tdColor">用户名</td>
+        <td width="760px" class="tdColor">内容</td>
+    </tr>
+    <foreach name="data" item="v">
+        <tr height="40px">
+            <td>{$v.id}</td>
+            <td>{$v.date}</td>
+            <td>{$v.username}</td>
+            <td>{$v.content}</td>
+        </tr>
+    </foreach>
+    <tr>
+        <td colspan="4">
+            {$show}
+        </td>
+    </tr>
+</table>

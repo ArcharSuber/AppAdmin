@@ -1,0 +1,24 @@
+<table border="1" cellspacing="0" cellpadding="0">
+	<tr>
+		<td width="66px" class="tdColor tdC">序号</td>
+		<td width="400px" class="tdColor">用户名</td>
+		<td width="630px" class="tdColor">添加时间</td>
+		<td width="130px" class="tdColor">操作</td>
+	</tr>
+	<foreach name="data" item="v">
+		<tr height="40px">
+			<td>{$v.id}</td>
+			<td>{$v.username}</td>
+			<td>{$v.date}</td>
+			<td><a href="{:U('User/update')}?page={$page}&id={$v.id}"><img class="operation"
+												   src="__PUBLIC__/Admin/img/update.png"></a> <img class="operation delban"
+																								   src="__PUBLIC__/Admin/img/delete.png"  onclick="del({$v.id})"></td>
+		</tr>
+	</foreach>
+	<tr>
+		<td colspan="4">
+			<input type="hidden" value="{$page}" id="page">
+			{$show}
+		</td>
+	</tr>
+</table>

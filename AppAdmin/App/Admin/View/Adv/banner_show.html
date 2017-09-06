@@ -1,0 +1,30 @@
+<table border="1" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="66px" class="tdColor tdC">序号</td>
+        <td width="315px" class="tdColor">图片</td>
+        <td width="308px" class="tdColor">名称</td>
+        <td width="450px" class="tdColor">链接</td>
+        <td width="215px" class="tdColor">是否显示</td>
+        <td width="125px" class="tdColor">操作</td>
+    </tr>
+    <foreach name="data" item="v">
+        <tr>
+            <td>{$v.id}</td>
+            <td><div class="bsImg">
+                <img src="__ROOT__/{$v.thumb}">
+            </div></td>
+            <td>{$v.name}</td>
+            <td><a class="bsA" href="{$v.url}">{$v.url}</a></td>
+            <td>{$v.appear}</td>
+            <td><a href="{:U('Adv/update')}?page={$page}&id={$v.id}"><img class="operation"
+                                                  src="__PUBLIC__/Admin/img/update.png"></a> <img class="operation delban"
+                                                                                                  src="__PUBLIC__/Admin/img/delete.png" onclick="del({$v.id})"></td>
+        </tr>
+    </foreach>
+    <tr>
+        <td colspan="6">
+            <input type="hidden" value="{$page}" id="page">
+            {$show}
+        </td>
+    </tr>
+</table>
