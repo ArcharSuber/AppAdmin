@@ -1,0 +1,42 @@
+<table border="1" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="66px" class="tdColor tdC">序号</td>
+        <td width="170px" class="tdColor">头像</td>
+        <td width="135px" class="tdColor">姓名</td>
+        <td width="145px" class="tdColor">手机号码</td>
+        <td width="140px" class="tdColor">所在城市</td>
+        <td width="140px" class="tdColor">任职机构</td>
+        <td width="145px" class="tdColor">工作年限</td>
+        <td width="145px" class="tdColor">行家头衔</td>
+        <td width="145px" class="tdColor">添加时间</td>
+        <td width="140px" class="tdColor">审核状态</td>
+        <td width="150px" class="tdColor">是否推荐</td>
+        <td width="130px" class="tdColor">操作</td>
+    </tr>
+    <foreach name="data" item="v">
+        <tr>
+            <td>{$v.id}</td>
+            <td><div class="onsImg">
+                <img src="__ROOT__/{$v.thumb}">
+            </div></td>
+            <td>{$v.name}</td>
+            <td>{$v.tel}</td>
+            <td>{$v.v_city}</td>
+            <td>{$v.struct}</td>
+            <td>{$v.work_time}</td>
+            <td>{$v.header}</td>
+            <td>{$v.date}</td>
+            <td>{$v.styleshoice1}</td>
+            <td>{$v.styleshoice2}</td>
+            <td><a href="{:U('Expert/update')}?id={$v.id}&page={$page}"><img class="operation"
+                                                                             src="__PUBLIC__/Admin/img/update.png"></a> <img class="operation delban"
+                                                                                                                             src="__PUBLIC__/Admin/img/delete.png" onclick="del({$v.id})"></td>
+        </tr>
+    </foreach>
+    <tr>
+        <td colspan="12">
+            <input type="hidden" value="{$page}" name="page" id="page">
+            {$show}
+        </td>
+    </tr>
+</table>
